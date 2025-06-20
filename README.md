@@ -106,4 +106,4 @@ node Shard.js
 - Node.js v20+
 - Lavalink server for music features
 
-# Enjoy a premium, all-in-one Discord experience!
+# Enjoy a premium, Arrkiii experience!
