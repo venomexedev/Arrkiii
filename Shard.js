@@ -1,4 +1,9 @@
-/** @format */
+/** @format
+ *
+ * Arrkiii By Ozuma xd
+ * © 2022 Arrkiii Development
+ *
+ */
 
 const config = require("./src/config");
 const { ClusterManager } = require("discord-hybrid-sharding");
