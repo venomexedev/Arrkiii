@@ -70,8 +70,7 @@ module.exports = {
         })
         .setDescription(
           `> **\`.01\` ${client.emoji.dot} Bot Developer** [Ozuma](https://discord.com/users/1029065620878282792)\n` +
-            `> **\`.02\` ${client.emoji.dot} Owner** [Kabbu](https://discord.com/users/1025035540518678598)\n` +
-            `> **\`.03\` ${client.emoji.dot} Founder** [Ayush](https://discord.com/users/925801847938248795)`,
+            `> **\`.02\` ${client.emoji.dot} Owner** [Manas](https://discord.com/users/1243212619825942568)\n`
         )
         .setColor("#5865F2")
         .setImage(client.config.links.arrkiii)
