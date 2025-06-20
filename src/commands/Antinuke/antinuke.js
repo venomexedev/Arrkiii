@@ -1,3 +1,10 @@
+/** @format
+ *
+ * Arrkiii By Ozuma xd
+ * © 2022 Arrkiii Development
+ *
+ */
+
 const { PermissionsBitField, ChannelType } = require("discord.js");
 const AntiNuke = require("../../schema/antinuke");
 
