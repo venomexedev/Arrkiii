@@ -1,10 +1,9 @@
 {
-  "name": "ozuma",
+  "name": "Arrkiii",
   "main": "Shard.js",
   "scripts": {
-    "format": "prettier --log-level error --write .",
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "start": "node Shard.js",
+    "dev": "nodemon Shard.js"
   },
   "keywords": [
     "ozuma"
@@ -36,11 +35,4 @@
     "topgg-autoposter": "^2.0.2",
     "undici": "^7.4.0"
   },
-  "devDependencies": {
-    "@eslint/js": "^9.21.0",
-    "eslint": "^9.21.0",
-    "globals": "^16.0.0",
-    "npm-check-updates": "^17.1.15",
-    "prettier": "^3.5.2"
-  }
 }
