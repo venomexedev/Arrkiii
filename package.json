@@ -5,9 +5,7 @@
     "start": "node Shard.js",
     "dev": "nodemon Shard.js"
   },
-  "keywords": [
-    "ozuma"
-  ],
+
   "dependencies": {
     "@flytri/lyrics-finder": "^1.0.7",
     "@iamtraction/google-translate": "^2.0.1",
