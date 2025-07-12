@@ -24,7 +24,7 @@ module.exports = {
     power: "Powered By FlaZe Development 🌙",
     vanity: "discord.gg/SbDMUJy5rW",
     guild: "",
-    topgg: "https://top.gg/bot/1033496708992204840/vote",
+    topgg: "https://top.gg/bot/1392816451550707744/vote",
   },
   Webhooks: {
       black: "",
