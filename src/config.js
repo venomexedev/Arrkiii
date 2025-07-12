@@ -27,23 +27,23 @@ module.exports = {
     topgg: "https://top.gg/bot/1392816451550707744/vote",
   },
   Webhooks: {
-      black: "",
+      black: "https://discord.com/api/webhooks/1393555723002183742/4Kjqglx6OnoIuUPLK30WXqf21W9Rk02fPONa1Y6G-hRzJlA_Xe1T98O5eIWANFOchWkw",
     player_create:
-      "",
+      "https://discord.com/api/webhooks/1393555723002183742/4Kjqglx6OnoIuUPLK30WXqf21W9Rk02fPONa1Y6G-hRzJlA_Xe1T98O5eIWANFOchWkw",
     player_delete:
-      "",
+      "https://discord.com/api/webhooks/1393555723002183742/4Kjqglx6OnoIuUPLK30WXqf21W9Rk02fPONa1Y6G-hRzJlA_Xe1T98O5eIWANFOchWkw",
     guild_join:
-      "",
-      guild_leave: "",
+      "https://discord.com/api/webhooks/1393555723002183742/4Kjqglx6OnoIuUPLK30WXqf21W9Rk02fPONa1Y6G-hRzJlA_Xe1T98O5eIWANFOchWkw",
+      guild_leave: "https://discord.com/api/webhooks/1393555723002183742/4Kjqglx6OnoIuUPLK30WXqf21W9Rk02fPONa1Y6G-hRzJlA_Xe1T98O5eIWANFOchWkw",
     cmdrun:
- "",
+ "https://discord.com/api/webhooks/1393555723002183742/4Kjqglx6OnoIuUPLK30WXqf21W9Rk02fPONa1Y6G-hRzJlA_Xe1T98O5eIWANFOchWkw",
   },
 
   nodes: [
     {
-       url: process.env.NODE_URL || "",
-      name: process.env.NODE_NAME || "",
-      auth: process.env.NODE_AUTH || "",
+       url: process.env.NODE_URL || "lava-all.ajieblogs.eu.org:80",
+      name: process.env.NODE_NAME || "FlaZe",
+      auth: process.env.NODE_AUTH || "https://dsc.gg/ajidevserver",
       secure: parseBoolean(process.env.NODE_SECURE || "false"),
     },
   ],
