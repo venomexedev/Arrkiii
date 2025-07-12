@@ -16,14 +16,14 @@ module.exports = {
     "",
   links: {
     BG: "https://cdn.discordapp.com/attachments/1370403403854905467/1393547472139456562/standard_7.gif?ex=687391b8&is=68724038&hm=e5c0c0f455182cd2863adb51efe0cab40c968fe1e1e7b243e337e4c317d168cc&",
-    support: "https://discord.gg/urV9mkfW9t",
+    support: "https://discord.gg/SbDMUJy5rW",
     invite:
-      "https://discord.com/api/oauth2/authorize?client_id=1033496708992204840&permissions=824671333721&scope=bot",
+      "https://discord.com/oauth2/authorize?client_id=1392816451550707744&permissions=8&integration_type=0&scope=bot+applications.commands",
     arrkiii:
       "https://cdn.discordapp.com/attachments/1370403403854905467/1393547472139456562/standard_7.gif?ex=687391b8&is=68724038&hm=e5c0c0f455182cd2863adb51efe0cab40c968fe1e1e7b243e337e4c317d168cc&",
     power: "Powered By FlaZe Development 🌙",
-    vanity: "discord.gg/urV9mkfW9t",
-    guild: "1325384856477368420",
+    vanity: "discord.gg/SbDMUJy5rW",
+    guild: "",
     topgg: "https://top.gg/bot/1033496708992204840/vote",
   },
   Webhooks: {
