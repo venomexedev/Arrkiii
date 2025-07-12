@@ -4,9 +4,9 @@ module.exports = {
   token:
     "MTM5MjgxNjQ1MTU1MDcwNzc0NA.GNvSyp.WI404xaxmzT2dAhZxbLH8T5SYxIyPS-cuDawJY",
   prefix: "?",
-  ownerID: "504232260548165633",
-  SpotifyID: "",
-  SpotifySecret: "",
+  ownerID: "840144975349153793",
+  SpotifyID: "85aab1d51a174aad9eed6d7989f530e6",
+  SpotifySecret: "b2ad05aa725e434c88776a1be8eab6c2",
   mongourl:
     "",
   embedColor: "#2f3136",
