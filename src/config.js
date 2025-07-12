@@ -8,7 +8,7 @@ module.exports = {
   SpotifyID: "85aab1d51a174aad9eed6d7989f530e6",
   SpotifySecret: "b2ad05aa725e434c88776a1be8eab6c2",
   mongourl:
-    "",
+    "mongodb+srv://venomexe:phoenixdev@cluster0.kmrvssa.mongodb.net/?retryWrites=true&w=majority",
   embedColor: "#2f3136",
   logs: "",
   node_source: "ytsearch",
